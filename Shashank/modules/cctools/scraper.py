@@ -16,7 +16,7 @@ _SCRTXT = """
 
 
 🥷 **Scrapped By ->** {}
-👨‍🎤 **Developed By ->** @SHIVANSHDEVS 🐲
+👨‍🎤 **Developed By ->** @lll_TOXICC_PAPA_lll 🐲
 """
 
 @Client.on_message(
