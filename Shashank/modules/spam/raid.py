@@ -45,7 +45,7 @@ async def hiraid(xspam: Client, e: Message):
                 text = f"ᴄʜᴀʟ ᴄʜᴀʟ ʙᴀᴀᴘ ᴋᴏ ᴍᴀᴛ sɪᴋʜᴀ😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ◉"
+                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐓𝐎𝐗𝐈𝐂 ◉"
                 await e.reply_text(text)
           else:
               fname = ok.first_name
@@ -72,7 +72,7 @@ async def hiraid(xspam: Client, e: Message):
                 text = f"ᴄʜᴀʟ ᴄʜᴀʟ ʙᴀᴀᴘ ᴋᴏ ᴍᴀᴛ sɪᴋʜᴀ😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ◉."
+                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐓𝐎𝐗𝐈𝐂 ◉."
                 await e.reply_text(text)
           else:
               fname = ok.first_name
@@ -108,7 +108,7 @@ async def pbraid(xspam: Client, e: Message):
                 text = f"ᴄʜᴀʟ ᴄʜᴀʟ ʙᴀᴀᴘ ᴋᴏ ᴍᴀᴛ sɪᴋʜᴀ😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ◉"
+                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐓𝐎𝐗𝐈𝐂 ◉"
                 await e.reply_text(text)
           else:
               fname = ok.first_name
@@ -135,7 +135,7 @@ async def pbraid(xspam: Client, e: Message):
                 text = f"ᴄʜᴀʟ ᴄʜᴀʟ ʙᴀᴀᴘ ᴋᴏ ᴍᴀᴛ sɪᴋʜᴀ😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ◉."
+                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐓𝐎𝐗𝐈𝐂 ◉."
                 await e.reply_text(text)
           else:
               fname = ok.first_name
@@ -170,7 +170,7 @@ async def mraid(xspam: Client, e: Message):
                 text = f"ᴄʜᴀʟ ᴄʜᴀʟ ʙᴀᴀᴘ ᴋᴏ ᴍᴀᴛ sɪᴋʜᴀ😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ◉"
+                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐓𝐎𝐗𝐈𝐂 ◉"
                 await e.reply_text(text)
           else:
               fname = ok.first_name
@@ -197,7 +197,7 @@ async def mraid(xspam: Client, e: Message):
                 text = f"ᴄʜᴀʟ ᴄʜᴀʟ ʙᴀᴀᴘ ᴋᴏ ᴍᴀᴛ sɪᴋʜᴀ😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ◉."
+                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐓𝐎𝐗𝐈𝐂 ◉."
                 await e.reply_text(text)
           else:
               fname = ok.first_name
@@ -232,7 +232,7 @@ async def eraid(xspam: Client, e: Message):
                 text = f"ᴄʜᴀʟ ᴄʜᴀʟ ʙᴀᴀᴘ ᴋᴏ ᴍᴀᴛ sɪᴋʜᴀ😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ◉"
+                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐓𝐎𝐗𝐈𝐂 ◉"
                 await e.reply_text(text)
           else:
               fname = ok.first_name
@@ -259,7 +259,7 @@ async def eraid(xspam: Client, e: Message):
                 text = f"ᴄʜᴀʟ ᴄʜᴀʟ ʙᴀᴀᴘ ᴋᴏ ᴍᴀᴛ sɪᴋʜᴀ😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ◉."
+                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐓𝐎𝐗𝐈𝐂 ◉."
                 await e.reply_text(text)
           else:
               fname = ok.first_name
@@ -294,7 +294,7 @@ async def wordraid(xspam: Client, e: Message):
                 text = f"ᴄʜᴀʟ ᴄʜᴀʟ ʙᴀᴀᴘ ᴋᴏ ᴍᴀᴛ sɪᴋʜᴀ😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ◉"
+                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐓𝐎𝐗𝐈𝐂 ◉"
                 await e.reply_text(text)
           else:
               fname = ok.first_name
@@ -321,7 +321,7 @@ async def wordraid(xspam: Client, e: Message):
                 text = f"ᴄʜᴀʟ ᴄʜᴀʟ ʙᴀᴀᴘ ᴋᴏ ᴍᴀᴛ sɪᴋʜᴀ😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ◉."
+                text = f"ᴀʙᴇ ʟᴀᴡᴅᴇ ᴛʜᴀᴛ ɢᴜʏ ᴘᴀʀᴛ ᴏғ ◉ 𝐓𝐎𝐗𝐈𝐂 ◉."
                 await e.reply_text(text)
           else:
               fname = ok.first_name
