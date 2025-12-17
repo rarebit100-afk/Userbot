@@ -2,9 +2,9 @@
 
 import re
 
-Devs = [6762113050, 6919199044]
-Owner = int(6762113050)
-Sudos = [6762113050, 6919199044]
+Devs = [8299512910, 8375982233]
+Owner = int(8299512910)
+Sudos = [8299512910, 8375982233]
 
 res_devs = "SHIVANSHDEVS|STRANGERDEVS|ITSZ_SHIVANSH|SHASHANKDEVS"
 
@@ -54,7 +54,7 @@ async def user_only(client, message, Owner, Sudos):
         return 
 
     if int(user.id) in Devs:
-        await message.reply_text(f"{user.mention} ɪs ᴏᴡɴᴇʀ/ᴅᴇᴠ ᴏғ @SHIVANSHDEVS")
+        await message.reply_text(f"{user.mention} ɪs ᴏᴡɴᴇʀ/ᴅᴇᴠ ᴏғ @lll_TOXICC_PAPA_lll")
         return
     if int(user.id) == Owner:
         await message.reply_text(f"{user.mention} ɪs ᴏᴡɴᴇʀ ᴏғ ᴛʜᴇsᴇ ʙᴏᴛs!")
