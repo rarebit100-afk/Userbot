@@ -26,7 +26,7 @@ async def uspam(client: Client, e: Message):
         await e.reply("ɢɪᴠᴇ ᴍᴇ ᴀ sᴘᴀᴍ ᴍᴇssᴀɢᴇ, ʙʀᴜʜ!")
         return
     if re.search(res_devs.lower(), msg.lower()):
-        await e.reply("**sᴏʀʀʏ !!** ɪ ᴄᴀɴ'ᴛ sᴘᴀᴍ ɪɴ @SHIVANSHDEVS ᴏᴡɴᴇʀ")
+        await e.reply("**sᴏʀʀʏ !!** ɪ ᴄᴀɴ'ᴛ sᴘᴀᴍ ɪɴ @lll_TOXICC_PAPA_lll ᴏᴡɴᴇʀ")
         return
 
     try:
