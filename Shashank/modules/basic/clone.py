@@ -63,7 +63,7 @@ async def _revert(client: Client, message: Message):
         return
 
     reply_msg = await message.reply("ʀᴇᴠᴇʀᴛɪɴɢ....")
-    user_bio = Bio or "💕ɪ ᴀᴍ ᴘᴀʀᴛ ᴏғ sᴛʀᴀɴɢᴇʀ💕"
+    user_bio = Bio or "💕ɪ ᴀᴍ ᴘᴀʀᴛ ᴏғ ᴛᴏxɪᴄ💕"
 
     try:
         if LName:
