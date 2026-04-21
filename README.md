@@ -1,4 +1,4 @@
-<p align="center">⚡️𝗜𝗦𝗛𝗔-𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
+<p align="center">⚡️🔥 ᴋʀɪsʜ ᴜsᴇʀʙᴏᴛ 🝐⚡️</p>
 
 <img src="https://files.catbox.moe/qbtaqa.jpg">
 
@@ -60,8 +60,8 @@ and you ended up in a Finale Battle with Telegram and at the end
 ```
 
 ## Credits 💖
-- [𝗜𝗦𝗛𝗔](https://t.me/ISHA_BOTS)
-- [𝗧𝗢𝗫𝗜𝗖](https://t.me/ABOUTT_TOXIC) 
+- [GC](https://t.me/rarebit_gamers)
+- [channel](https://t.me/rarebit_gamers0) 
 
 ## Support / Channel
 
