@@ -53,7 +53,7 @@ async def alive_function(message: Message, answers):
     msg = f"""
 <b> — ʜᴇʏ, ɪ ᴀᴍ ᴀʟɪᴠᴇ.</b>
 
-<b> • sᴛʀᴀɴɢᴇʀ :</b> {message.from_user.mention}
+<b> • ➺ ᴋʀɪsʜ ᴜsᴇʀʙᴏᴛ ✦ :</b> {message.from_user.mention}
 <b> • ᴘʟᴜɢɪɴs :</b> <code>{len(CMD_HELP)} ᴍᴏᴅᴜʟᴇs</code>
 <b> • ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :</b> <code>{pyver.split()[0]}</code>
 <b> • ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :</b> <code>{pyrover}</code>
@@ -65,12 +65,12 @@ async def alive_function(message: Message, answers):
         InlineQueryResultArticle(
             title="Alive",
             description="ᴄʜᴇᴄᴋ ʙᴏᴛ's sᴛᴀᴛs",
-            thumb_url="https://graph.org/file/c6a2ed96648fd03377dc9.jpg",
+            thumb_url="https://files.catbox.moe/ocgi20.jpg",
             input_message_content=InputTextMessageContent(
                 msg, parse_mode=ParseMode.HTML, disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("──「 ˹ɪsʜᴀ ꭙ ᴛᴏxɪᴄ˼ 」──", callback_data="helper")]]
+                [[InlineKeyboardButton("──「 ˹➺ ᴋʀɪsʜ ꭙ ᴛᴏxɪᴄ˼ 」──", callback_data="helper")]]
             ),
         )
     )
@@ -83,7 +83,7 @@ async def help_function(answers):
         InlineQueryResultArticle(
             title="ʜᴇʟᴘ ᴀʀᴛɪᴄʟᴇ!",
             description="ᴄʜᴇᴄᴋ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ & ʜᴇʟᴘ",
-            thumb_url="https://files.catbox.moe/1u0lf7.jpg",
+            thumb_url="https://files.catbox.moe/ocgi20.jpg",
             input_message_content=InputTextMessageContent(
                 Data.text_help_menu.format(len(CMD_HELP))
             ),
