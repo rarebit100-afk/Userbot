@@ -317,7 +317,7 @@ async def updatees(client: Client, message: Message):
 add_command_help(
     "update",
     [
-        ["update", "To see a list of the latest updates from Stranger-Userbot."],
+        ["update", "To see a list of the latest updates from krish-Userbot."],
         ["update deploy", "To update userbot."],
     ],
 )
