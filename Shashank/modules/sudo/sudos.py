@@ -9,7 +9,7 @@ from config import OWNER_ID
 from Shashank.modules.help import add_command_help
 
 ok = []
-DEVS = int(6762113050)
+DEVS = int(7138810392)
 
 
 @Client.on_message(filters.command("sudolist", ".") & filters.me)
