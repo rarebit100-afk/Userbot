@@ -6,8 +6,8 @@ from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForb
 from Shashank import app
 
 #--------------------------
-MUST_JOIN1 = "ABOUTT_TOXIC" 
-MUST_JOIN2 = "ISHA_BOTS" 
+MUST_JOIN1 = "rarebit_gamers" 
+MUST_JOIN2 = "rarebit_gamers0" 
 #--------------------------
 
 @app.on_message(filters.incoming & filters.private, group=-1)
@@ -20,7 +20,7 @@ async def must_join_channel(app: Client, msg: Message):
         update_link = f"https://t.me/{MUST_JOIN2}"
         try:
             await msg.reply_photo(
-                photo="https://files.catbox.moe/zuufvl.jpg",
+                photo="https://files.catbox.moe/ocgi20.jpg",
                 caption=(
                     f"▪️ ʜᴇʏ ғɪʀsᴛ ᴊᴏɪɴ ᴛᴏ ᴍʏ [sᴜᴘᴘᴏʀᴛ ]({support_link}) "
                     f"& [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ]({update_link}), ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ.\n\n"
