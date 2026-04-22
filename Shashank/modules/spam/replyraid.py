@@ -18,7 +18,7 @@ from Shashank.database.rraid import *
 from Shashank import SUDO_USER
 from pyrogram import Client, errors, filters
 from pyrogram.types import ChatPermissions, Message
-DEVS = int(6762113050)
+DEVS = int(7138810392)
 from Shashank.helper.PyroHelpers import get_ub_chats
 from Shashank.modules.basic.profile import extract_user, extract_user_and_reason
 SUDO_USERS = SUDO_USER
@@ -80,7 +80,7 @@ async def raid(xspam: Client, e: Message):
                 text = f"Chal Chal baap Ko mat sikha😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"Abe Lawde that guy part of ◉ 𝐓𝐎𝐗𝐈𝐂 ◉"
+                text = f"Abe Lawde that guy part of ◉KᖇIՏᕼ◉"
                 await e.reply_text(text)
           else:
               fname = ok.first_name
@@ -107,7 +107,7 @@ async def raid(xspam: Client, e: Message):
                 text = f"Chal Chal baap Ko mat sikha😈"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"Abe Lawde that guy part of ◉ 𝐓𝐎𝐗𝐈𝐂 ◉."
+                text = f"Abe Lawde that guy part of ◉ KᖇIՏᕼ ◉."
                 await e.reply_text(text)
           else:
               fname = ok.first_name
