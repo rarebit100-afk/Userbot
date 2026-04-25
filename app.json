@@ -1,9 +1,9 @@
 {
     "name": " ᴋʀɪsʜ ᴜsᴇʀʙᴏᴛ ",
-    "logo": "https://files.catbox.moe/r58nec.jpg",
+    "logo": "https://files.catbox.moe/ocgi20.jpg",
     "description": "ᴀɴ ғɪʀsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ ᴡɪᴛʜ ᴍᴜʟᴛɪ ᴄʟɪᴇɴᴛs ғᴏʀ sᴘᴀᴍᴍɪɴɢ ᴏʀ ᴍᴀss.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/itzshukla/USERBOT",
+    "repository": "https://github.com/rarebit100-afk/Userbot",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
@@ -18,12 +18,12 @@
         "SUDO_USERS": {
             "description": "ᴅᴏɴ'ᴛ ᴄʜᴀɴɢᴇ ᴛʜɪs ᴛʜᴇʀᴇ /ɪᴅ",
             "required": true,
-            "value": "6762113050 6919199044"
+            "value": "7138810392"
         },
         "OWNER_ID": {
             "description": "ғɪʟʟ ᴛʜᴇʀᴇ ʏᴏᴜʀ I'd",
             "required": true,
-            "value": "6762113050"
+            "value": "7138810392"
         },
         "BOT_TOKEN": {
             "description": "ғɪʟʟ ᴡɪᴛʜ ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ ɢᴇᴛ ғʀᴏᴍ @BotFather ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ",
