@@ -12,13 +12,13 @@ from Shashank.helper.PyroHelpers import ReplyCheck
 from Shashank.modules.help import add_command_help
 from Shashank.modules.bot.inline import get_readable_time
 
-alive_logo = ALIVE_PIC or "https://files.catbox.moe/qbtaqa.jpg"
+alive_logo = ALIVE_PIC or "https://files.catbox.moe/ocgi20.jpg"
 
 if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** 𝐓𝐎𝐗𝐈𝐂 ✘ 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 **\n\n"
+        f"** KRISH ✘ 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 **\n\n"
         f"❏ **𝐕ᴇʀsɪᴏɴ**: `2.1`\n"
         f"├• **𝐔ᴘᴛɪᴍᴇ**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **𝐏ʏᴛʜᴏɴ**: `{python_version()}`\n"
