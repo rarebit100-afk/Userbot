@@ -9,15 +9,15 @@ API_ID = int(6435225) #optional
 API_HASH = "" #optional
 
 SUDO_USERS = list(map(int, ("").split()))
-OWNER_ID = int(6762113050)
+OWNER_ID = int(7138810392)
 MONGO_URL = "MONGO_URL"
 BOT_TOKEN = "BOT_TOKEN"
-ALIVE_PIC = 'https://files.catbox.moe/zuufvl.jpg'
+ALIVE_PIC = 'https://files.catbox.moe/ocgi20.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
 LOG_GROUP = None
 GIT_TOKEN = None #personal access token
-REPO_URL = "https://github.com/TEAM-ISHA/USERBOT"
+REPO_URL = "https://github.com/rarebit100-afk/Userbot"
 BRANCH = "master" #don't change
  
 STRING_SESSION1 = ""
