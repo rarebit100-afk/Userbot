@@ -12,7 +12,7 @@ from Shashank.helper.PyroHelpers import ReplyCheck
 from Shashank.modules.help import add_command_help
 from Shashank.modules.bot.inline import get_readable_time
 
-alive_logo = ALIVE_PIC or "https://files.catbox.moe/ocgi20.jpg"
+alive_logo = ALIVE_PIC or "https://files.catbox.moe/jzaacm.jpg"
 
 if ALIVE_TEXT:
    txt = ALIVE_TEXT
