@@ -1,6 +1,6 @@
 <p align="center">⚡️🔥 ᴋʀɪsʜ ᴜsᴇʀʙᴏᴛ 🝐⚡️</p>
 
-<img src="https://files.catbox.moe/ocgi20.jpg">
+<img src="https://files.catbox.moe/jzaacm.jpg">
 
 <p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
